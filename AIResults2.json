@@ -1,0 +1,11 @@
+{
+  "results": [
+    {
+      "algorithm": "Nasogastric tube malpositioned",
+      "result": "You have LOTS of pneumonia",
+      "tags": [
+        "Right","Severe"
+      ]
+    }   
+  ]
+}
